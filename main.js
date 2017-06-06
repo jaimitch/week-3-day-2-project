@@ -95,12 +95,14 @@ function getLength(str){
 //`false`.
 // A:
 function greaterThan(num1, num2){
-  if (num2 > num1) {
+
+  if (num1 > num2) {
     return true;
   }
-  else if {
+  else {
     return false;
   }
+
 }
 
 
@@ -123,7 +125,9 @@ function greet(name){
 // words: "quick", "fox", "fence"
 // sentence: "quick brown fox jumps over the fence"
 // A:
-
+/*
 function madlib(noun, verb, adjective, pronoun){
   return "The " + adjective + " " noun + " was " + verb + " " + pronoun + "!"
 }
+
+*/
